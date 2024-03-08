@@ -21,9 +21,9 @@ class ProfilePage extends StatelessWidget {
       imageAsset: "assets/images/ahnaf-1.jpg",
     ),
     User(
-      name: "Gregorius Rafael Santosa",
-      nim: "123210102",
-      imageAsset: "assets/images/rafael.jpg",
+      name: "Ahmad Yuda Hermawan",
+      nim: "123210075",
+      imageAsset: "assets/images/yuda.jpg",
     ),
   ];
 
